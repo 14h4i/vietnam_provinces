@@ -9,8 +9,8 @@ Package Flutter để quản lý đơn vị hành chính Việt Nam: tỉnh/thà
 Hỗ trợ cả **v1 (cấu trúc 3 cấp)** và **v2 (cấu trúc 2 cấp)** đơn vị hành chính.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/demo-v1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/demo-v2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/v1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/v2.png" width="300" />
 </p>
 
 <p align="center">
