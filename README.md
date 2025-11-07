@@ -9,8 +9,8 @@ A Flutter package for managing Vietnam's administrative divisions: provinces, di
 Supports both **v1 (3-level structure)** and **v2 (2-level structure)** administrative divisions.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/demo-v1.png" width="300" />
-  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/demo-v2.png" width="300" />
+  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/v1.png" width="300" />
+  <img src="https://raw.githubusercontent.com/14h4i/vietnam_provinces/main/resources/v2.png" width="300" />
 </p>
 
 <p align="center">
