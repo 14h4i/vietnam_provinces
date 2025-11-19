@@ -36,7 +36,7 @@ The data for this package is sourced from the [Vietnam Provinces Open API](https
 
    ```yaml
    dependencies:
-     vietnam_provinces: ^1.0.2
+     vietnam_provinces: ^2.0.0
    ```
 
 2. Load the data in your app:
